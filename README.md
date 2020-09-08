@@ -1,4 +1,4 @@
-# Vision-par-Ordinateur
+# Face_recognition
 Contrôle de présence automatique à l’aide des algorithmes de vision par ordinateur et d’apprentissage
 Pour pallier aux appels par identifiant de façon manuelle dans beaucoup d'etablissement dont le
 processus peut prendre 3 à 5 minutes. Cette perte de temps peut également engendrer
